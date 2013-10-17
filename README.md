@@ -50,4 +50,3 @@ Username Admin
 Pass  Php
 As a admin you can select any grade and mess and you look for average grades.
 
-
