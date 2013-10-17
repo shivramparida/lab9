@@ -32,15 +32,19 @@ Step 2 . open phpmyadmin > create database and name it "my_db"
 Step 3. IMPORT "my_db.sql" which is in folder "Demo databse"
 
 step 4. Paste the project folder "Mess Feedback" in "WWW" folder on you HOST
+(xampp server paste the folder in xampp->htdocs folder)
 
 step 5. Done
 
 How to use :
-Step 1: login as a user and Enter feedback 
+step 1 :
+open browser and enter localhost/foldername/home.php
+
+Step 2: login as a user and Enter feedback 
 username  205112034
 Pass  Nitt100
 
-Step 2:
+Step 3:
 Login as an admin and analysis the feedback.
 Username Admin
 Pass  Php
