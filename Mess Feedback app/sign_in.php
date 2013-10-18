@@ -18,7 +18,7 @@ body,td,th {
 }
 body {
 	background-image: url(7.jpg);
-	background-size: 1250px 680px;
+	background-size: 1280px 800px;
 	background-repeat: no-repeat;
 	background-color: #000000;
 	background-attachment: scroll;
