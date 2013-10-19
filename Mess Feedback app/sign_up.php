@@ -1,4 +1,3 @@
-
 <?php
 session_start();
 
@@ -22,7 +21,7 @@ body {
 <div id='cssmenu'>
 <ul>
    <li class='active'><a href='home.php'><span>Home</span></a></li>
-   <li class='has-sub'><a href='log.php'>sign in</a>
+   <li class='has-sub'><a href='sign_up.php'>sign in</a>
       <ul>
          <li class='has-sub'><a href='sign_in.php'><span>student</span></a>
          
