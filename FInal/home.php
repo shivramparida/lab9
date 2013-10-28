@@ -25,7 +25,7 @@
         </ul>
         <div class="container">
              <header>
-                <h1> MESS FEEDBACK APPLICATION<span></span></h1>
+                <h1> MESS FEEDBOOK APPLICATION<span></span></h1>
                 <h2>Shiv Ram Parida</h2>
 				<p class="codrops-demos">
 					<a href="home.php">Home</a>
